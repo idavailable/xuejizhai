@@ -10,7 +10,7 @@
 | 内科摘要 | `modules/01-neike-zhaiyao.md` | 2 卷 23 症 | 卷上下 → 症（一、二、…）→ 逐案 |
 | 外科枢要 | `modules/02-waike-shuyao.md` | 4 卷 | 卷 → 病症 |
 | 女科撮要 | `modules/03-nvke-cuoyao.md` | 2 卷 | 卷上下 → 病症 |
-| 正体类要 | `modules/04-zhengtileiyao.md` | 2 卷 | 上卷主治大法 + 治验；下卷方药 |
+| 正体类要 | `modules/04-zhengtileiyao.md` | 2 卷（本电子本出现 5 个卷级标题） | 上卷：主治大法 1 节 + 扑伤 30 ／坠跌金伤 30 ／汤火 4；下卷：方药 72 |
 
 ## 二、分书索引
 

@@ -2,7 +2,7 @@
 
 > ⚠️ **仅供中医文献与学术方法研究，不构成诊疗建议，不提供处方与剂量。**
 
-[![Version](https://img.shields.io/badge/版本-V0.1.0-blue)](CHANGELOG.md)
+[![Version](https://img.shields.io/badge/版本-V0.1.1-blue)](CHANGELOG.md)
 [![Corpus](https://img.shields.io/badge/语料-四书%2013万字-orange)]()
 [![Coverage](https://img.shields.io/badge/15维度-12%2F15-green)]()
 
