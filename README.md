@@ -2,9 +2,9 @@
 
 > ⚠️ **仅供中医文献与学术方法研究，不构成诊疗建议，不提供处方与剂量。**
 
-[![Version](https://img.shields.io/badge/版本-V0.1.1-blue)](CHANGELOG.md)
+[![Version](https://img.shields.io/badge/版本-V0.2.0-blue)](CHANGELOG.md)
 [![Corpus](https://img.shields.io/badge/语料-四书%2013万字-orange)]()
-[![Coverage](https://img.shields.io/badge/15维度-12%2F15-green)]()
+[![Coverage](https://img.shields.io/badge/15维度-14%2F15-green)]()
 
 把明代医家**薛己（薛立斋）**的《内科摘要》《外科枢要》《女科撮要》《正体类要》，蒸馏成可被 AI 调用的人物技能。
 
@@ -53,9 +53,10 @@ python3 scripts/health_check.py
 python3 scripts/check_quotes.py
 ```
 
-## 覆盖率 12/15
+## 覆盖率 14/15
 
-缺：7 饮食、8 条辨（按症分，非六经）、9 生平（生卒无确考）；15 功法不适用。
+缺：9 生平（生卒无确考）；15 功法不适用。
+**v0.2.0 补齐**：7 饮食（`references/11`）、8 条辨框架（`references/41`）。
 
 ## 许可
 
